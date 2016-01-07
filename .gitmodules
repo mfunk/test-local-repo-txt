@@ -1,0 +1,3 @@
+[submodule "test-remote-repo-txt"]
+	path = test-remote-repo-txt
+	url = https://github.com/mfunk/test-remote-repo-txt
